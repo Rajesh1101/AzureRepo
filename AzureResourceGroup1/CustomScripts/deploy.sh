@@ -80,4 +80,5 @@ cd ../
 
 ./setup.sh --c raft --a y --N 1 --nn TestNet --ip $ip --o 1 --nt n --n node1 --pw password12345 --r 22000 --w 22001 --t 22003 --dt 22004 --raft 22005 --ws 22006
 
+cp errout erroutput
 > errout
